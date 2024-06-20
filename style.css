@@ -1,0 +1,149 @@
+.body{
+    align-items: center;
+    border-left: 25px;
+}
+.nombre{
+    border: 50px;
+    background-color: rgb(230, 212, 51);
+    margin: 20px;
+    padding: 40ox;
+    text-align: center;
+    width: 20px;
+    height: 50px;
+}
+.cola{
+    width: 30px;
+    height: 20px;
+    background-color:rgb(230, 212, 51) ;
+    margin-top: -20px;
+    margin-left: -10px;
+}
+.nombre2{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(230, 212, 51) ;
+    margin-top: -85px;
+    margin-left: 50px;
+}
+.nombre3{
+    width: 45px;
+    height: 20px;
+    background-color:rgb(230, 212, 51)  ;
+    margin-top: -20px;
+    margin-left: 100px;
+}
+.cabeza{
+    display: flex;
+    background-color: rgb(230, 212, 51);
+    width: 120px;
+    height: 120px;
+    outline-color: black;
+    outline:7cm;
+    align-items: center;
+    border-style: solid;
+    border-radius: 5px;
+}
+.cejas{
+    width: 200px;
+    height: 10px;
+    background-color: rgb(230, 212, 51);
+    margin-top: -50px;
+   border-radius: 5px;
+    border-style: solid;
+}
+.ojo1{
+    position: fixed;
+    border-radius: 5px;
+    border-style: solid;
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin-left: 20px;
+}
+.ojo2{
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    position: fixed;
+    border-style: solid;
+    margin-left: 75px;
+}
+.nariz{
+    width: 10px;
+    height: 40px;
+    border-style: solid;
+    position: fixed;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.boca{
+    width: 40px;
+    height: 10px;
+    border-style: solid;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: 80px;
+    border-radius: 5px;
+}
+.cuerpo{
+    display: flex;
+    width: 150px;
+    height: 350px;
+    background-color: rgb(230, 212, 51);
+    left: 500px;
+    border-style: solid;
+}
+.herramienta1{
+    width: 30px;
+    height: 100px;
+    border-style: solid;
+    border-color: rgba(61, 48, 19, 0.726);
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.herramienta2{
+    width: 30px;
+    height: 100px;
+    border-style: solid;
+    border-color: rgba(61, 48, 19, 0.726);
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 95px;
+}
+.mano1{
+    width: 50px;
+    height: 30px;
+    border-style: solid;
+    position: fixed;
+    margin-top: 120px;
+    background-color: rgb(223, 164, 37);
+}
+.mano2{
+    width: 50px;
+    height: 30px;
+    border-style: solid;
+    position: fixed;
+    margin-top: 120px;
+    background-color: rgb(223, 164, 37);
+    margin-left: 95px;
+}
+.cinto{
+    width: 150px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgba(61, 48, 19, 0.726);
+    position: fixed;
+    margin-top: 200px;
+    margin-left: -2px;
+    
+}
+.pies{
+    display: block;
+    width: 120px;
+    height: 80px;
+    background-color: rgb(230, 212, 51);
+    right: 40cm;
+    border-style: solid;    
+}
